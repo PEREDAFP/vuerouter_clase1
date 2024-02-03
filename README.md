@@ -16,3 +16,5 @@ import { useRoute } from 'vue-router'
 const route = useRoute()
 const { id } = route.params
 const { mombre } = route.query
+
+## Trabajamos con los guard

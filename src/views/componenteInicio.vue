@@ -5,7 +5,7 @@
 
 
 <template>
-    <h1>Componente Dos</h1>
+    <h1>No ha seleccionado ningún componente</h1>
 </template>
 
 
